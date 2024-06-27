@@ -1,1 +1,6 @@
-Codigo fuente el tutorial de como hacerlo esta en mi canal youtube
+Este es el codigo fuente
+
+El tutorial de como hacerlo esta en mi canal youtube
+
+Sigueme en mis redes sociales
+
