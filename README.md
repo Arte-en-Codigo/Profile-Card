@@ -1,7 +1,5 @@
-Este es el codigo fuente
+-Este es el codigo fuente
 
-El tutorial de como hacerlo esta en mi canal youtube
+## Sigueme en mis redes sociales
 
-Sigueme en mis redes sociales
-
-https://www.instagram.com/vic_webdesing/
+-https://www.instagram.com/vic_webdesing/
